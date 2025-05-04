@@ -1,5 +1,5 @@
 # Hi there, I'm Rishik Reddy! 👋  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=435&lines=Full-Stack+Developer+%7C+AI+Enthusiast+%7C+Cloud+Explorer)
+
 
 ## 🚀 About Me  
 I'm a passionate **Software Developer** with a strong foundation in **AI, Web Development, and Cloud Computing**. Currently pursuing a **Bachelor’s degree in Computer Science (CGPA: 9.4) at SR University**, I love building intelligent systems and full-stack applications that solve real-world problems.  
@@ -17,20 +17,22 @@ I'm a passionate **Software Developer** with a strong foundation in **AI, Web De
 C | Python | Java | JavaScript | SQL | HTML | CSS  
 
 ### 🏗️ Frameworks & Libraries  
-Next.js | React.js | Redux | Node.js | Express.js | Django | TensorFlow | Keras | OpenCV  
+Next.js | React.js | Redux | Node.js | Express.js | Django | TensorFlow | Keras | OpenCV | Flask | React Native
 
 ### 💾 Databases & Cloud  
-MySQL | MongoDB | AWS  
+MySQL | MongoDB | AWS | Azure | Firebase
 
 ### ⚙️ Developer Tools  
-Git | VS Code | PyCharm | Eclipse | Google Colab  
+Git | VS Code | PyCharm | Eclipse | Google Colab | Postman
 
 ### 📚 Core CS Subjects  
-Data Structures | AI & Machine Learning | Computer Networks | Operating Systems  
+Data Structures | Artificial Intelligence | Computer Networks | Operating Systems  
 
 ---
 
 ## 🌟 Featured Projects  
+
+
 🔹 **Web Application for a Resort** | `HTML | CSS | JavaScript | Python | Django`  
 *Developed a Maldives-inspired static web app showcasing 10+ room types, 8 activities, and 3 special events.*  
 🚀 Increased user engagement by **20%** through responsive design and **15%** positive feedback on aesthetics.  
