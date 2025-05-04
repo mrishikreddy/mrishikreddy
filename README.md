@@ -1,74 +1,80 @@
 # Hi there, I'm Rishik Reddy! 👋  
 
 
-## 🚀 About Me  
-I'm a passionate **Software Developer** with a strong foundation in **AI, Web Development, and Cloud Computing**. Currently pursuing a **Bachelor’s degree in Computer Science (CGPA: 9.4) at SR University**, I love building intelligent systems and full-stack applications that solve real-world problems.  
 
-💡 I have a deep interest in **Artificial Intelligence, Machine Learning, and Deep Learning**—constantly experimenting with **Neural Networks** and **Computer Vision**. When I'm not coding, I explore **Cloud Computing** and **Backend Development**, optimizing systems for efficiency and scalability.  
-
-⚡ With expertise in **C, Python, Java, JavaScript, and SQL**, I enjoy crafting clean, efficient, and scalable solutions. My projects range from **AI-powered applications** to **dynamic web platforms** that enhance user experiences.  
-
-💬 Let's connect and build something amazing together!  
+## 🚀 About Me
+I'm **Rishik Reddy**, a passionate software developer and 3rd-year B.Tech CSE student at SR University, Warangal (CGPA: 9.4). My work spans full-stack development, artificial intelligence, and cloud computing. I specialize in creating performance-driven web applications and AI-powered solutions with a strong foundation in computer science fundamentals. Currently, I serve as the **Management Head of the SR University Coding Club**, where I lead impactful projects and initiatives.
 
 ---
 
-## 🛠️ Tech Stack  
-### 💻 Languages  
-C | Python | Java | JavaScript | SQL | HTML | CSS  
+## 🛠 Skills
 
-### 🏗️ Frameworks & Libraries  
-Next.js | React.js | Redux | Node.js | Express.js | Django | TensorFlow | Keras | OpenCV | Flask | React Native
-
-### 💾 Databases & Cloud  
-MySQL | MongoDB | AWS | Azure | Firebase
-
-### ⚙️ Developer Tools  
-Git | VS Code | PyCharm | Eclipse | Google Colab | Postman
-
-### 📚 Core CS Subjects  
-Data Structures | Artificial Intelligence | Computer Networks | Operating Systems  
+- **Languages:** C, Python, Java, JavaScript, SQL, HTML, CSS 
+- **Frameworks & Libraries:** Node.js, Express.js, Next.js, Django, Flask, React Native
+- **Libraries:** React.js, Redux, Keras, OpenCV, TensorFlow
+- **Databases:** MySQL, MongoDB, Firestore
+- **Cloud:** AWS, Azure, Firebase  
+- **Developer Tools:** Git, VS Code, PyCharm, Eclipse, Google Colab, Postman 
+- **Foundational Skills:** Data Structures, Artificial Intelligence, Computer Networks, Operating Systems  
 
 ---
 
-## 🌟 Featured Projects  
+## 💻 Projects
+
+### [SRU Coding Club Website](https://rtsrucc-demo-web.vercel.app/)
+A full-stack web platform for the official coding club of SR University, built using Next.js, React, and Firebase. This platform supports authentication, a leaderboard, AI chatbot integration, and Firestore optimization. It onboarded 500+ users within the first week and uses localStorage caching to reduce Firestore reads by ~80%. I also built **Ciao**, an AI chatbot (powered by Gemini 1.5 Flash) that authenticates college users and answers 3000+ queries daily.
+
+### [Portfolio Website – rishik.tech](https://www.rishik.tech/)
+A personal portfolio showcasing my skills and projects, developed using Next.js and hosted on a custom domain. It features a dynamic, real-time contact form and a custom-built AI chatbot assistant powered by Google Gemini API. The site demonstrates advanced full-stack practices and real-world AI integration.
+
+### [Paradise Resort Web App](https://mrishikreddy.github.io/rishik.tech.projects/webApp)
+A modern and aesthetic static web application developed for Paradise Resorts using Next.js, HTML, and CSS. It features individual pages for rooms, events, and customer support, providing visitors with an immersive resort booking experience. Achieved a 20% increase in visitor engagement and positive user feedback on design responsiveness.
+
+### [Scholar’s Companion](https://github.com/mrishikreddy/Projects/blob/main/scholars%20companion.c)  
+A C-based academic planning utility for students to monitor attendance and estimate required exam marks. It includes subject-wise attendance tracking (to maintain ≥75% attendance) and predictive analytics for CGPA goals. This tool demonstrates algorithmic problem-solving in real-world academic scenarios.
+
+### [Tic Tac Toe AI](https://mrishikreddy.github.io/rishik.tech.projects/ticTacToe)
+Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses decision-making algorithms to select optimal moves. The game offers interactive, turn-based gameplay by integrating user inputs with strategic AI responses. Conditional logic and move evaluation techniques were implemented to enhance the AI’s performance, making the game both challenging and engaging.
+
+### [View 20+ Projects](https://github.com/mrishikreddy/Projects/tree/main)
 
 
-🔹 **Web Application for a Resort** | `HTML | CSS | JavaScript | Python | Django`  
-*Developed a Maldives-inspired static web app showcasing 10+ room types, 8 activities, and 3 special events.*  
-🚀 Increased user engagement by **20%** through responsive design and **15%** positive feedback on aesthetics.  
-
-🔹 **Handwritten Digit Recognition** | `Python | Deep Learning | CNN`  
-*Built an AI system that recognizes handwritten digits using CNNs trained on the MNIST dataset.*  
-✅ Achieved **98.67% accuracy** with a well-optimized architecture featuring **ReLU activation and pooling layers**.  
-
-🔹 **Scholar’s Companion** | `Java | Git`  
-*An educational tool for tracking attendance and calculating required grades for academic success.*  
-📈 Designed an **attendance tracker** and an algorithm to predict minimum scores needed to hit **final semester targets**.  
-
-🔹 **Restaurant Order Management System** | `C | Data Structures`  
-*Built a restaurant system handling **10+ operations**, optimizing order tracking with **doubly linked lists**.*  
-⚡ Improved **data retrieval speeds by 30%** and reduced **manual work by 40%**, automating key operations.  
-
----
-
-## 🏆 Certifications  
-- **IBM AI Engineering Specialization**  
-- **Google Cybersecurity Specialization**  
-- **AWS Academy Graduate - AWS Cloud Foundations**  
-- **Cisco JavaScript Essentials 1 & 2**  
-- **Python & Django for Beginners**  
-- **Java for Beginners**  
 
 ---
 
-## 🌍 Let's Connect!  
-📧 **Email:** [malerishikreddy@gmail.com](mailto:malerishikreddy@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/rishikreddym/](https://linkedin.com/in/rishikreddym/)  
-💻 **GitHub:** [github.com/mrishikreddy](https://github.com/mrishikreddy)  
+## 📇 Quick Links
 
-🚀 **Check out my Portfolio** → **🎨 [Rishik.Tech](https://rishik.tech) 🚀**  
-*(Click the link to see my best work in action!)*  
+<p align="center">
+  <span>
+    <a href="mailto:malerishikreddy@gmail.com">
+      <strong>📧 Email</strong>
+    </a>
+  </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
----
+  <span>
+    <a href="https://www.linkedin.com/in/rishikreddym/">
+      <strong>🔗 LinkedIn</strong>
+    </a>
+  </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
-💡 _“Technology is best when it brings people together.”_ Let’s build something incredible! 💙  
+  <span>
+    <a href="https://drive.google.com/file/d/1LfjyjA3m7D2NXzGLc47e5sz26REtSYJ9/view">
+      <strong>📄 Resume</strong>
+    </a>
+  </span>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <span>
+    <a href="https://rishik.tech">
+      <strong>🌐 Portfolio</strong>
+    </a>
+  </span>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <span>
+    <a href="https://leetcode.com/u/Rishik_Reddy/">
+      <strong>🧠 LeetCode</strong>
+    </a>
+  </span>
+</p>
+
+
+
