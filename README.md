@@ -1,4 +1,5 @@
 # Hi there, I'm Rishik Reddy! 👋  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=435&lines=Full-Stack+Developer+%7C+AI+Enthusiast+%7C+Cloud+Explorer)
 
 ## 🚀 About Me  
 I'm a passionate **Software Developer** with a strong foundation in **AI, Web Development, and Cloud Computing**. Currently pursuing a **Bachelor’s degree in Computer Science (CGPA: 9.4) at SR University**, I love building intelligent systems and full-stack applications that solve real-world problems.  
