@@ -45,7 +45,6 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 ## 📇 Quick Links
 
 <p align="center">
-  ## [SRU Coding Club Website](https://github.com/mrishikreddy/SRU-Coding-Club-Website)
   <span>
     <a href="mailto:malerishikreddy@gmail.com">
       <strong>📧 Email</strong>
