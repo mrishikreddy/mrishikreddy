@@ -36,7 +36,7 @@ A C-based academic planning utility for students to monitor attendance and estim
 ### [Tic Tac Toe AI](https://mrishikreddy.github.io/rishik.tech.projects/ticTacToe)
 Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses decision-making algorithms to select optimal moves. The game offers interactive, turn-based gameplay by integrating user inputs with strategic AI responses. Conditional logic and move evaluation techniques were implemented to enhance the AI’s performance, making the game both challenging and engaging.
 
-### [View 20+ Projects(Click Here)](https://github.com/mrishikreddy/Projects/tree/main)
+### [View 20+ Projects (Click Here)](https://github.com/mrishikreddy/Projects/tree/main)
 
 
 
