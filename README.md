@@ -2,7 +2,7 @@
 
 
 
-## 🚀 About Me
+## About Me
 I'm **Rishik Reddy**, a passionate software developer and 3rd-year B.Tech CSE student at SR University, Warangal (CGPA: 9.4). My work spans full-stack development, artificial intelligence, and cloud computing. I specialize in creating performance-driven web applications and AI-powered solutions with a strong foundation in computer science fundamentals. Currently, I serve as the **Management Head of the SR University Coding Club**, where I lead impactful projects and initiatives.
 
 ---
@@ -19,7 +19,7 @@ I'm **Rishik Reddy**, a passionate software developer and 3rd-year B.Tech CSE st
 
 ---
 
-## 💻 Projects
+## Projects
 
 ### [SRU Coding Club Website](https://github.com/mrishikreddy/SRU-Coding-Club-Website-RT1)
 A full-stack web platform for the official coding club of SR University, built using Next.js, React, and Firebase. This platform supports authentication, a leaderboard, AI chatbot integration, and Firestore optimization. It onboarded 500+ users within the first week and uses localStorage caching to reduce Firestore reads by ~80%. I also built **Ciao**, an AI chatbot (powered by Gemini 1.5 Flash) that authenticates college users and answers 3000+ queries daily.
@@ -42,7 +42,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 ---
 
-## 📇 Quick Links
+## Quick Links
 
 <p align="center">
   <span>
