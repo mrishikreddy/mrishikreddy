@@ -7,7 +7,7 @@ I'm **Rishik Reddy**, a passionate software developer and 3rd-year B.Tech CSE st
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - **Languages:** C, Python, Java, JavaScript, SQL, HTML, CSS 
 - **Frameworks & Libraries:** Node.js, Express.js, Next.js, Django, Flask, React Native
