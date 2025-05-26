@@ -3,7 +3,9 @@
 
 
 ## About Me
-I'm **Rishik Reddy**, a passionate software developer and 3rd-year B.Tech CSE student at SR University, Warangal (CGPA: 9.4). My work spans full-stack development, artificial intelligence, and cloud computing. I specialize in creating performance-driven web applications and AI-powered solutions with a strong foundation in computer science fundamentals. Currently, I serve as the **Management Head of the SR University Coding Club**, where I lead impactful projects and initiatives.
+I am a passionate and driven Software Developer currently in my fourth year of a Bachelor’s degree in Computer Science at SR University. With a strong foundation in programming and a keen interest in emerging technologies, I specialize in building innovative web and mobile applications using modern libraries and frameworks. My experience spans full-stack development, AI/ML, and backend systems, with hands-on work in Python, Java, React, Next.js, RESTful APIs, SQL, and MongoDB.
+
+I thrive in collaborative environments and enjoy solving complex problems that push me to grow as a developer. I am continuously learning and evolving with the tech landscape, aiming to contribute meaningfully to impactful software solutions.
 
 ---
 
