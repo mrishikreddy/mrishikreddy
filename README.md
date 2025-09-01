@@ -97,7 +97,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 </p>
 
 ---
-<p align="center">
+<em><p align="center">
   <span>
     <a href="mailto:malerishikreddy@gmail.com">
       <strong>📧 Email</strong>
