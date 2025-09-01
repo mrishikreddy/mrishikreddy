@@ -15,7 +15,7 @@
 
 [![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
 [![GitHub MRishikReddy](https://img.shields.io/github/followers/MRishikReddy?label=follow&style=social)](https://github.com/MRishikReddy)
-[![LinkedIn: rishikreddym](https://img.shields.io/badge/-rishik--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikreddym/)](https://www.linkedin.com/in/rishikreddym/)
+[![LinkedIn: rishikreddym](https://img.shields.io/badge/-rishikreddym-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikreddym/)](https://www.linkedin.com/in/rishikreddym/)
 
 
 
