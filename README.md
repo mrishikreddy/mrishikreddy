@@ -101,4 +101,6 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 <em><b>I love connecting with different people</b> so if you want to drop a <b>hi!, or discuss a project, my inbox is always open!</b> :)</em><img align="right" src="https://media.giphy.com/media/EuoHwFsVY3w6BMmfhM/giphy.gif" width="80"/> 
 
 ---
-![Site reddie.tech](https://img.shields.io/badge/do%20visit-revanth.tech-informational)](https://revanth.tech)[![GitHub revanth-reddy](https://img.shields.io/github/followers/revanth-reddy?label=follow&style=social)](https://github.com/revanth-reddy)[![Linkedin: revanth--reddy](https://img.shields.io/badge/-revanth--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/revanth--reddy/)
+
+<img align="right" src="https://media.giphy.com/media/EuoHwFsVY3w6BMmfhM/giphy.gif" width="80"/>
+
