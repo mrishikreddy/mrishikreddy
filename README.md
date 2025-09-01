@@ -2,6 +2,24 @@
 
 
 
+<br>
+<p  align="center">
+<img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
+<em><b>Hi, I'm Revanth Reddy!</b></em>
+</p>
+
+<br>
+<br>
+
+---
+
+<img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
+<p><em>Research Assistant @ TauGroup | SDE Intern @ Amazon | Software Development Engineer at <a href="https://www.oyorooms.com/">OYO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+
+[
+![Site reddie.tech](https://img.shields.io/badge/do%20visit-revanth.tech-informational)](https://revanth.tech)[![GitHub revanth-reddy](https://img.shields.io/github/followers/revanth-reddy?label=follow&style=social)](https://github.com/revanth-reddy)[![Linkedin: revanth--reddy](https://img.shields.io/badge/-revanth--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/revanth--reddy/)
+
+
 ## About Me
 I am a passionate and driven Software Developer currently in my fourth year of a Bachelor’s degree in Computer Science at SR University. With a strong foundation in programming and a keen interest in emerging technologies, I specialize in building innovative web and mobile applications using modern libraries and frameworks. My experience spans full-stack development, AI/ML, and backend systems, with hands-on work in Python, Java, React, Next.js, RESTful APIs, SQL, and MongoDB.
 
