@@ -10,7 +10,7 @@
 ---
 
 <img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
-<p><em>Research Assistant @ TauGroup | SDE Intern @ Amazon | Software Development Engineer at <a href="https://www.oyorooms.com/">OYO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Computer Science Student</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 
 [![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
