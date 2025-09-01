@@ -12,8 +12,12 @@
 <img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
 <p><em>Research Assistant @ TauGroup | SDE Intern @ Amazon | Software Development Engineer at <a href="https://www.oyorooms.com/">OYO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
-[
-![Site reddie.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)[![GitHub Rishik-Reddy](https://img.shields.io/github/followers/rishik-reddy?label=follow&style=social)](https://github.com/MRishikReddy)[![Linkedin: Rishik--Reddy](https://img.shields.io/badge/-rishik--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/rishikreddym/)
+
+[![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
+[![GitHub MRishikReddy](https://img.shields.io/github/followers/MRishikReddy?label=follow&style=social)](https://github.com/MRishikReddy)
+[![LinkedIn: Rishik-Reddy](https://img.shields.io/badge/-rishik--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikreddym/)](https://www.linkedin.com/in/rishikreddym/)
+
+
 
 
 ## About Me
@@ -98,4 +102,4 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 ---
 
-[![Revanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=revanth-reddy&count_private=true&show_icons=true&bg_color=0,FF8F1C,FFFFFF,509E2F)](https://github.com/revanth-reddy/)
+[![Rishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRishikReddy&count_private=true&show_icons=true&bg_color=0,FF8F1C,FFFFFF,509E2F)](https://github.com/MRishikReddy)
