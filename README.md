@@ -61,7 +61,9 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 
 ---
-
+<br>
+<br>
+<br>
 ## Quick Links
 
 <p align="center">
