@@ -97,10 +97,5 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 </p>
 
 ---
-
-<em><b>I love connecting with different people</b> so if you want to drop a <b>hi!, or discuss a project, my inbox is always open!</b> :)</em><img align="right" src="https://media.giphy.com/media/EuoHwFsVY3w6BMmfhM/giphy.gif" width="80"/> 
-
----
-
-<img align="right" src="https://media.giphy.com/media/EuoHwFsVY3w6BMmfhM/giphy.gif" width="80"/>
+<em><b>I love connecting with different people</b> so if you want to drop a <b>hi!, or discuss a project, my inbox is always open!</b> :)</em><img align="right" src="https://media.giphy.com/media/EuoHwFsVY3w6BMmfhM/giphy.gif" width="80"/>
 
