@@ -79,7 +79,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <span>
-    <a href="https://drive.google.com/file/d/1LfjyjA3m7D2NXzGLc47e5sz26REtSYJ9/view">
+    <a href="https://drive.google.com/file/d/1aZpeSNGtRp9e6Xm_WVjevEfBYLlTRWtM/view?usp=sharing">
       <strong>📄 Resume</strong>
     </a>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -91,7 +91,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <span>
-    <a href="https://leetcode.com/u/Rishik_Reddy/">
+    <a href="https://leetcode.com/u/ghostrr7/">
       <strong>🧠 LeetCode</strong>
     </a>
   </span>
