@@ -1,5 +1,5 @@
 <br>
-\<div align="center">
+<div align="center">
   <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
   <h3>Hi there, I'm Rishik Reddy! 👋</h3>
 </div>
