@@ -61,7 +61,6 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 
 ---
-<br/>
 ### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rishikreddym/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
