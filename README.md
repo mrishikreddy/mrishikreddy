@@ -69,7 +69,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
   <a href="https://x.com/malerishikreddy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.rishik.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://leetcode.com/u/rishikreddy7/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1eM-qABpY26WcTOARVRrkULQoDebyXx9l/view" target="_blank"><img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1OD8CmPTqa7GdMw_VYbwiIbOe4bXb-VQj/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
   <a href="https://github.com/mrishikreddy/Projects/tree/main" target="_blank"><img src="https://img.shields.io/badge/Projects-2C974B?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://dev.to/rishikreddy" target="_blank"><img src="https://img.shields.io/badge/Dev.to-FF4500?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
