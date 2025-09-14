@@ -110,7 +110,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=tokyonightl&hide_border=true" height="180" alt="Top Languages"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>  
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
