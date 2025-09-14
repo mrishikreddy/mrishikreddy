@@ -94,3 +94,19 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
   <a href="https://dev.to/rishikreddy" target="_blank"><img src="https://img.shields.io/badge/Dev.to-FF4500?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 <br/>
+
+---
+## 📈 GitHub Stats & Activity  
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MRishikReddy&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
