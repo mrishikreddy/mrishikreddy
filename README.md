@@ -100,66 +100,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
----
-## 📈 GitHub Stats & Activity  
-
-<div align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>  
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
----
-## 📈 GitHub Stats & Activity  
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages"/>  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=dracula&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
----
-## 📈 GitHub Stats & Activity  
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=gruvbox&hide_border=true" height="180" alt="Top Languages"/>  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=gruvbox&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
----
-## 📈 GitHub Stats & Activity  
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=merko&hide_border=true" height="180" alt="Top Languages"/>  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=merko&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
----
-## 📈 GitHub Stats & Activity  
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=highcontrast&hide_border=true" height="180" alt="Top Languages"/>  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=highcontrast&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
----
-## 📈 GitHub Stats & Activity  
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRishikReddy&layout=compact&theme=prussian&hide_border=true" height="180" alt="Top Languages"/>  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRishikReddy&theme=prussian&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
