@@ -40,7 +40,7 @@ I thrive in collaborative environments and enjoy solving complex problems that p
 | Developer Tools | <div align="center"> <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </div> |
 | Foundational Skills | <div align="center"> <img src="https://img.shields.io/badge/Data%20Structures-FF6C37?style=for-the-badge"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating%20Systems-9C27B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cybersecurity-FFC107?style=for-the-badge"/> </div> |
 ---
-## Projects
+## 💻 Projects
 
 ### [SRU Coding Club Website](https://github.com/mrishikreddy/SRU-Coding-Club-Website-RT1)
 A full-stack web platform for the official coding club of SR University, built using Next.js, React, and Firebase. This platform supports authentication, a leaderboard, AI chatbot integration, and Firestore optimization. It onboarded 500+ users within the first week and uses localStorage caching to reduce Firestore reads by ~80%. I also built **Ciao**, an AI chatbot (powered by Gemini 1.5 Flash) that authenticates college users and answers 3000+ queries daily.
@@ -81,7 +81,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 
 ---
-### Connect With Me
+### 🤝 Connect With Me
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/rishikreddym/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
