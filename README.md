@@ -51,11 +51,6 @@ A personal portfolio showcasing my skills and projects, developed using Next.js 
 ### [Web Application for Paradise Resorts](https://github.com/mrishikreddy/Web-Application-for-Paradise-Resorts-RT2)
 A modern and aesthetic static web application developed for Paradise Resorts using Next.js, HTML, and CSS. It features individual pages for rooms, events, and customer support, providing visitors with an immersive resort booking experience. Achieved a 20% increase in visitor engagement and positive user feedback on design responsiveness.
 
-### [Scholar’s Companion](https://github.com/mrishikreddy/Scholars-Companion-RT16)  
-A C-based academic planning utility for students to monitor attendance and estimate required exam marks. It includes subject-wise attendance tracking (to maintain ≥75% attendance) and predictive analytics for CGPA goals. This tool demonstrates algorithmic problem-solving in real-world academic scenarios.
-
-### [Tic Tac Toe AI](https://github.com/mrishikreddy/Tic-Tac-Toe-RT15)
-Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses decision-making algorithms to select optimal moves. The game offers interactive, turn-based gameplay by integrating user inputs with strategic AI responses. Conditional logic and move evaluation techniques were implemented to enhance the AI’s performance, making the game both challenging and engaging.
 
 ### [View 20+ Projects (Click Here)](https://github.com/mrishikreddy/Projects/tree/main)
 
