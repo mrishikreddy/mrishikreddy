@@ -79,6 +79,28 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 - **Project Experience:** Built **20+ hands-on projects**, spanning web applications, AI/ML tools, and real-world academic utilities.
 
+---
+## 🏆 Achievements
+
+- **Problem Solving:** Solved **400+ problems** on [LeetCode](https://leetcode.com/u/rishikreddy7/), strengthening algorithmic and data structure expertise.  
+
+- **Academic Excellence:**  
+  - Secured **top position** in both 1st and 2nd year of B.Tech (Computer Science) at SR University.  
+  - Awarded with a **Certificate of Excellence** for consistent performance and dedication.  
+
+- **Hackathon Winner:** Won the **University-level Hackathon** by developing a **Smart Traffic Light System**, leveraging IoT and AI to optimize traffic flow.  
+
+- **Patents:**  
+  - *IntelliInflate – Automated Tire Inflation System* (202541014294, Issued Mar 7, 2025): A smart TPMS-integrated system for accurate, safe, and automated tire pressure management.  
+  - *AI-driven Food Waste Reduction System* (202541013149, Issued Feb 21, 2025): A machine learning and IoT-based solution for optimizing demand forecasting, portion control, and sustainability in restaurants.  
+
+- **Leadership & Recognition:** Recognized by SR University for **exemplary leadership** as the *Management Head of the Coding Club* (2024–2025), contributing to community growth and collaboration.  
+
+- **Certifications & Learning:** Completed **15+ certifications** (including 2 specializations) across full-stack development, AI/ML, and cloud technologies.  
+
+- **Project Experience:** Built **20+ hands-on projects**, spanning web applications, AI/ML tools, and real-world academic utilities.  
+
+
 
 ---
 ### 🤝 Connect With Me
