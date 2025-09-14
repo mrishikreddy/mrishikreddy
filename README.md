@@ -66,8 +66,8 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 - **Problem Solving:** Solved **400+ problems** on [LeetCode](https://leetcode.com/u/rishikreddy7/), strengthening algorithmic and data structure expertise.  
 
 - **Academic Excellence:**  
-  - Secured **top position** in both 1st and 2nd year of B.Tech (Computer Science) at SR University.  
-  - Awarded with a **Certificate of Excellence** for consistent performance and dedication.  
+  - Secured [**top position**](https://drive.google.com/drive/u/0/folders/1zRbaUhop-_geAiF7MyT1ujhSSa_VUEFS) in both 1st and 2nd year of B.Tech (Computer Science) at SR University.  
+  - Awarded with a [**Certificate of Excellence**](https://drive.google.com/drive/u/0/folders/1zRbaUhop-_geAiF7MyT1ujhSSa_VUEFS)for consistent performance and dedication.  
 
 - **Hackathon Winner:** Won the **University-level Hackathon** by developing a **Smart Traffic Light System**, leveraging IoT and AI to optimize traffic flow.  
 
@@ -76,11 +76,11 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
   - *AI-driven Food Waste Reduction System* (202541013149) - ML & IoT-based system to optimize forecasting, portion control, and sustainability in restaurants.  
   - [See full patent details »](https://drive.google.com/drive/folders/1WjdUCSr7dXUgU_si_9KVjJNfrhKE1pBA?usp=sharing)  
 
-- **Leadership & Recognition:** Recognized by SR University for **exemplary leadership** as the *Management Head of the Coding Club* (2024–2025), contributing to community growth and collaboration.  
+- **Leadership & Recognition:** Recognized by SR University for **exemplary leadership** as the  [*Management Head of the Coding Club*](https://drive.google.com/drive/u/0/folders/1zRbaUhop-_geAiF7MyT1ujhSSa_VUEFS) (2024–2025), contributing to community growth and collaboration.  
 
-- **Certifications & Learning:** Completed **15+ certifications** (including 2 specializations) across full-stack development, AI/ML, and cloud technologies.  
+- **Certifications & Learning:** Completed [**15+ certifications**](https://drive.google.com/drive/folders/1zRbaUhop-_geAiF7MyT1ujhSSa_VUEFS?usp=sharing) (including 2 specializations) across full-stack development, AI/ML, and cloud technologies.  
 
-- **Project Experience:** Built **20+ hands-on projects**, spanning web applications, AI/ML tools, and real-world academic utilities.  
+- **Project Experience:** Built [**20+ hands-on projects**](https://github.com/mrishikreddy/Projects/tree/main), spanning web applications, AI/ML tools, and real-world academic utilities.  
 
 
 
